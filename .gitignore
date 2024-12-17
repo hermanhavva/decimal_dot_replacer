@@ -14,7 +14,7 @@
 
 # AWS User-specific
 .idea/**/aws.xml
-
+myenv/
 # Generated files
 .idea/**/contentModel.xml
 
@@ -123,6 +123,19 @@ MANIFEST
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
+
+# Ignore .cfg files
+*.cfg
+
+# Ignore .bat files
+*.bat
+
+# Ignore .bin files
+*.bin
+
+# Ignore .exe files
+*.exe
+
 
 # Installer logs
 pip-log.txt
