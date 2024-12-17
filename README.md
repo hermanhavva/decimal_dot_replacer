@@ -1,2 +1,3 @@
-# decimal_dot_replacer
-Script to change the decimal notation
+# Python script to replace dot in american decimal notation with coma
+ 
+
